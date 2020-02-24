@@ -1,0 +1,1 @@
+Configurações para servidor web.
