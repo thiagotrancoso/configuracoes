@@ -1,4 +1,4 @@
-## Configuração inicial servidor local
+## Configuração inicial para XAMPP
 Está configuração é feita apenas uma vez após instalar o servidor web local.
 
 ## Configurando arquivo do php "php.ini"
