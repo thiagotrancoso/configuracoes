@@ -1,3 +1,5 @@
+Configuração para meu pc pessoal com windows, se for usar em outro pc verificar os diretórios informados.
+
 ~~~javascript
 {
     /**************************************************
