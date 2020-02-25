@@ -21,21 +21,25 @@
     // Definir o tema de icones
     "workbench.iconTheme": "vscode-icons",
 
-    "php.executablePath": "C:/xampp/php/php.exe",
-    "php.validate.executablePath": "C:/xampp/php/php.exe",
-
     // Define o salvamento automático
     "files.autoSave": "off",
 
-    // Define o terminal integrado
-    // "terminal.integrated.shell.windows": "D:/Users/Thiago.Trancoso/AppData/Local/Programs/Git/bin/bash.exe",
-
     // Ativa/Desativa "Cursor de espelho" quando você está editando tags HTML
     "html.mirrorCursorOnMatchingTag": false,
+    
+    // Define o terminal integrado
+    "terminal.integrated.shell.windows": "C:/Program Files/Git/bin/bash.exe",
+    
+    // Informa para o vscode o local do php
+    "php.executablePath": "D:/xampp/php/php.exe",
+    "php.validate.executablePath": "D:/xampp/php/php.exe",
 
     /********************************************************************************
      * CONFIGURAÇÃO VISUAL DO EDITOR
      ********************************************************************************/
+    // Define o tema
+    // "workbench.colorTheme": "Dracula",
+
     // Exibir espaçamentos e tabulações
     "editor.renderWhitespace": "all",
 
@@ -49,9 +53,6 @@
         // Define a cor da borda da linha ativa
         // "editor.lineHighlightBorder": "#332E30",
     },
-
-    // Define o tema
-    // "workbench.colorTheme": "Dracula",
 
     "window.zoomLevel": 0,
 }
