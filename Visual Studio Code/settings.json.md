@@ -57,5 +57,13 @@ Configuração para meu pc pessoal com windows, se for usar em outro pc verifica
     },
 
     "window.zoomLevel": 0,
+    
+        // Sidebar - Identação
+    "workbench.tree.indent": 25,
+
+    // Sidebar::MouseOver - Linhas verticais
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#008070"
+    },
 }
 ~~~
