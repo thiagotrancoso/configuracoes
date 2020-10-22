@@ -50,10 +50,10 @@ Configuração para meu pc pessoal com windows, se for usar em outro pc verifica
 
     "workbench.colorCustomizations": {
         // Define a cor de fundo da linha ativa
-        // "editor.lineHighlightBackground": "#332E30",
+        // "editor.lineHighlightBackground": "#343746",
 
         // Define a cor da borda da linha ativa
-        // "editor.lineHighlightBorder": "#332E30",
+        // "editor.lineHighlightBorder": "#343746",
     },
 
     "window.zoomLevel": 0,
