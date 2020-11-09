@@ -1,1 +1,1 @@
-Configurações para servidor web.
+Algumas configurações que uso.
