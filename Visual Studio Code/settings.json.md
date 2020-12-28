@@ -27,7 +27,7 @@ Configuração para meu pc pessoal com windows, se for usar em outro pc verifica
     "files.autoSave": "off",
 
     // Ativa/Desativa "Cursor de espelho" quando você está editando tags HTML
-    "html.mirrorCursorOnMatchingTag": false,
+    // "html.mirrorCursorOnMatchingTag": false,
     
     // Define o terminal integrado
     "terminal.integrated.shell.windows": "C:/Program Files/Git/bin/bash.exe",
@@ -50,20 +50,18 @@ Configuração para meu pc pessoal com windows, se for usar em outro pc verifica
 
     "workbench.colorCustomizations": {
         // Define a cor de fundo da linha ativa
-        // "editor.lineHighlightBackground": "#343746",
+        "editor.lineHighlightBackground": "#343746",
 
         // Define a cor da borda da linha ativa
-        // "editor.lineHighlightBorder": "#343746",
+        "editor.lineHighlightBorder": "#343746",
+
+        // Sidebar::MouseOver - Linhas verticais
+        "tree.indentGuidesStroke": "#008070",
     },
 
     "window.zoomLevel": 0,
     
-        // Sidebar - Identação
+    // Sidebar - Identação
     "workbench.tree.indent": 25,
-
-    // Sidebar::MouseOver - Linhas verticais
-    "workbench.colorCustomizations": {
-        "tree.indentGuidesStroke": "#008070"
-    },
 }
 ~~~
